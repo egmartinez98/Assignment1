@@ -94,6 +94,9 @@
 //alert("Hello" + " " + name + "." + " " + "\nWelcome to the" + " " + course + " " + "class!");
 
 //step 17
-var x = 10;
-var y = 20;
-console.log(x + y);
+//var x = 10;
+//var y = 20;
+//console.log(x + y);
+
+//step 18
+var x = 20;
