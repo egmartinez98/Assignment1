@@ -99,4 +99,35 @@
 //console.log(x + y);
 
 //step 18
-var x = 20;
+//var x = 20;
+//console.log(x + 20);
+
+//step 19
+//var x = 20;
+//console.log(x * 5);
+
+//step 20;
+//var x = 20 % 3;
+//console.log(x);
+
+//step 21
+//var x = 10;
+//var y = 5;
+//console.log(x > y);
+
+//step 22
+//var x = 10;
+//var y = 5;
+//console.log(x < y);
+
+//step 23
+//var widget = new Object;
+//console.log(typeof(widget))
+
+//step 24
+//var widget = new Object
+//console.log(widget instanceof Object);
+
+//step 25
+//var widget = new Object
+//console.log(widget instanceof String);
